@@ -1,0 +1,8 @@
+Variables: Descriptores univariados
+sexo, precio total: boxplot indexado
+edad, precio total: correlación, diagrama de disperción
+fecha, precio total: correlación, diagrama de disperción
+cantidad, precio total: correlación, diagrama de disperción
+cantidad, descripción: bar graph
+cantidad, fecha, descripción: bar graph
+dni, fecha: sumary(dni) -> boxplot indexado

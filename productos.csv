@@ -1,0 +1,167 @@
+Categoría,Producto,Codigo,Stock
+despensa general,aceite para cocinar,9572074,407
+despensa general,aceitunas en lata,9168880,619
+despensa general,atún en lata,9787216,557
+despensa general,avena,9601098,45
+despensa general,azúcar,9439351,75
+despensa general,biberones ,9872385,351
+despensa general,café de olla,9185167,836
+despensa general,café soluble,9959882,171
+despensa general,cajeta,9245025,277
+despensa general,cereal,9954076,953
+despensa general,champiñones en lata ,9064279,573
+despensa general,comida para gato,9427704,62
+despensa general,comida para perro,9202276,806
+despensa general,consomé,9502195,572
+despensa general,crema,9323390,501
+despensa general,cátsup,9465930,453
+despensa general,edulcorantes,9277662,216
+despensa general,elote en lata,9243491,121
+despensa general,frijoles en lata,9464241,550
+despensa general,fórmula láctea,9253917,553
+despensa general,huevo,9755622,871
+despensa general,lata de chiles,9415665,811
+despensa general,leche,9375163,483
+despensa general,leche condensada,9062651,466
+despensa general,mantequilla,9353639,353
+despensa general,mayonesa,9549762,93
+despensa general,mermelada,9762979,570
+despensa general,miel,9474784,51
+despensa general,mole,9490792,792
+despensa general,mostaza,9616014,847
+despensa general,papillas,9565087,962
+despensa general,pasta,9024873,630
+despensa general,pañales,9341865,858
+despensa general,polvos,9472929,701
+despensa general,puré de tomate,9560313,928
+despensa general,quesillo,9872530,189
+despensa general,queso,9219496,846
+despensa general,sal,9730671,817
+despensa general,salsa enlatada,9927909,100
+despensa general,sardinas enlatadas,9299146,610
+despensa general,sopas ,9551520,648
+despensa general,té,9369043,348
+despensa general,yogurt,9606511,850
+bebidas,agua natural,9504833,512
+bebidas,agua saborizada,9343127,332
+bebidas,aguas minerales natural ,9999250,586
+bebidas,agua mineral saborizadas,9997726,351
+bebidas,bebidas energizantes,9837960,108
+bebidas,bebidas infantiles,9292183,98
+bebidas,jugos y néctares,9033992,372
+bebidas,naranjadas,9766604,822
+bebidas,limonadas,9326877,439
+bebidas,refrescos,9876914,273
+bebidas,brandy,9523686,58
+bebidas,cerveza,9859455,485
+bebidas,ginebra,9596946,857
+bebidas,tequila,9885368,58
+bebidas,vino,9717582,693
+bebidas,vodka,9141506,120
+botanas,barras nutritivas,9585839,820
+botanas,botanas saladas,9365313,232
+botanas,cacahuates,9925325,656
+botanas,frituras,9706875,912
+botanas,nueces,9491850,149
+botanas,palomitas,9471290,228
+botanas,papas,9390723,461
+botanas,semillas,9586736,664
+confitería,caramelos macizos,9291957,240
+confitería,chicles,9302836,534
+confitería,chocolate en barra,9511878,926
+confitería,chocolate en polvo,9462785,986
+confitería,dulces enchilados,9702285,442
+confitería,malvaviscos,9771374,999
+confitería,paletas,9059539,286
+confitería,pastillas para el aliento,9610729,780
+confitería,pulpas,9823418,854
+confitería,bolsas de hielo,9961684,363
+confitería,chocolates para congelar ,9164984,671
+confitería,helados,9945003,643
+confitería,jugos congelados,9250846,604
+confitería,paletas,9737026,590
+confitería,pastelillos para congelar,9134618,515
+jarciería,aluminio,9206274,448
+jarciería,aromatizantes,9177747,25
+jarciería,cepillos de mano,9143464,969
+jarciería,cloro,9685477,174
+jarciería,detergente,9708607,676
+jarciería,escobas,9168464,411
+jarciería,jergas/franelas,9820827,295
+jarciería,limpiadores para baño ,9366747,903
+jarciería,limpiadores para piso,9327940,930
+jarciería,mechudos,9697461,870
+jarciería,recogedor,9630273,280
+jarciería,suavizante,9468475,686
+jarciería,trampas para ratas,9405271,476
+jarciería,trapeadores,9216890,426
+jarciería,trapos desechables,9097002,356
+higiene personal,básicos de maquillaje,9777341,977
+higiene personal,cepillo de dientes,9069435,114
+higiene personal,champú,9252075,334
+higiene personal,crema para cabello,9602605,570
+higiene personal,cremas faciales,9745161,550
+higiene personal,desodorantes para caballero,9956616,427
+higiene personal,desodorantes para dama,9023397,240
+higiene personal,gel ,9646787,89
+higiene personal,jabón para cuerpo,9900189,85
+higiene personal,pasta de dientes,9139983,206
+higiene personal,pañuelos desechables,9720160,259
+higiene personal,papel higiénico,9834970,807
+higiene personal,rastrillos,9041798,925
+higiene personal,talco,9099245,731
+harina y pan,galletas dulces,9275033,917
+harina y pan,galletas saladas,9345518,806
+harina y pan,harina,9227789,640
+harina y pan,harina integral,9412796,350
+harina y pan,pan de caja,9741499,689
+harina y pan,pan dulce,9091824,732
+harina y pan,pan molido,9634865,476
+harina y pan,pan tostado,9678920,563
+harina y pan,pastelillos,9992677,808
+harina y pan,tortillas de harina,9107055,980
+harina y pan,tortillas de maíz,9816796,741
+frutas y verduras,aguacate,9495209,214
+frutas y verduras,ajo,9633984,856
+frutas y verduras,calabaza,9871103,133
+frutas y verduras,cebolla,9673984,564
+frutas y verduras,chile,9181009,41
+frutas y verduras,cilantro,9466537,673
+frutas y verduras,jitomate,9890925,659
+frutas y verduras,lechuga,9893467,747
+frutas y verduras,limón,9355794,613
+frutas y verduras,manzana,9356822,104
+frutas y verduras,naranja,9710968,482
+frutas y verduras,papa,9243077,58
+frutas y verduras,pera,9429680,373
+frutas y verduras,perejil,9034417,512
+frutas y verduras,uva,9139273,115
+frutas y verduras,zanahoria,9027723,474
+carnes y embutidos,bistec de cerdo,9083263,812
+carnes y embutidos,bistec de res,9460539,69
+carnes y embutidos,carne molida de cerdo,9585541,707
+carnes y embutidos,carne molida de res,9129880,181
+carnes y embutidos,cecina,9253240,91
+carnes y embutidos,chorizo,9587597,917
+carnes y embutidos,jamón,9169426,715
+carnes y embutidos,pollo,9844308,638
+carnes y embutidos,salchicha,9732930,54
+carnes y embutidos,tocino,9530414,239
+uso doméstico,cera para calzado,9071412,848
+uso doméstico,cera para coche,9923462,652
+uso doméstico,cerillos,9869749,88
+uso doméstico,cinta adhesiva,9026724,924
+uso doméstico,cucharas desechables,9527103,534
+uso doméstico,cuerda/soga,9412554,57
+uso doméstico,extensiones,9413325,709
+uso doméstico,focos,9698081,503
+uso doméstico,fusibles,9025074,884
+uso doméstico,insecticida,9407747,359
+uso doméstico,multicontacto,9935894,116
+uso doméstico,pegamento,9708449,764
+uso doméstico,pilas,9845687,232
+uso doméstico,platos desechables,9293651,345
+uso doméstico,tenedores desechables ,9331010,596
+uso doméstico,vasos desechables,9323557,774
+uso doméstico,veladoras,9235919,278
+uso doméstico,velas,9481868,921

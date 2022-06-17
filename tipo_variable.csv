@@ -1,0 +1,19 @@
+Variable, tipo
+fecha, categorica nominal
+dni, categorica nominal
+descripción, categorica nominal
+nombre, categorica nominal
+sexo, categorica nominal
+codigo, categorica ordinal
+edad, numerica discrea
+cantidad, numerica discrea
+precio, numerica continua
+precio total, numerica continua
+
+// Maybe
+Edit person database
+
+
+Ventas
+Personas
+Productos
